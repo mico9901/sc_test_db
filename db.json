@@ -52,7 +52,7 @@
     }
   },
   "yulbgm": {
-    profile: {
+    "profile": {
       "id": 0,
       "email": "asdf@asdf",
       "firstname": "asdf",
