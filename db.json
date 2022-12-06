@@ -52,12 +52,14 @@
     }
   },
   "yulbgm": {
-    "id": 0,
-    "email": "asdf@asdf",
-    "firstname": "asdf",
-    "lastname": "asdf",
-    "password": "$2a$08$fz2wqbz9wnQRpPU9AZxhue1gGMbroce9qn1trawP0QeDxNJzQDyx.",
-    "birthday": "",
-    "profileImage":""
+    profile: {
+      "id": 0,
+      "email": "asdf@asdf",
+      "firstname": "asdf",
+      "lastname": "asdf",
+      "password": "$2a$08$fz2wqbz9wnQRpPU9AZxhue1gGMbroce9qn1trawP0QeDxNJzQDyx.",
+      "birthday": "",
+      "profileImage":""
+    }
   }
 }
