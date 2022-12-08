@@ -93,7 +93,7 @@
         "REG_USR_IP": "127.0.0.1",
         "MODIFY_DTM": "2022-12-31",
         "MODIFY_USR_ID": "testuser",
-        "MODIFY_USR_IP": "127.0.0.1",
+        "MODIFY_USR_IP": "127.0.0.1"
       }
     ],
     "t_usr_info": [
@@ -121,7 +121,7 @@
         "MODIFY_USR_ID": "testuser",
         "MODIFY_USR_IP": "127.0.0.1",
         "USR_JOINPATH": "가입경로입니다.",
-        "LOGIN_DTM": "2022-12-31",
+        "LOGIN_DTM": "2022-12-31"
       }
     ]
   }
