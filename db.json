@@ -60,7 +60,8 @@
         "lastname": "asdf",
         "password": "$2a$08$9cTRFoS2rlapaA566GLnHuWv.Efh5EIL5UH9M6S1/R3Kw6jSTv4K6",
         "birthday": "",
-        "profileImage": ""
+        "profileImage": "",
+        "nickName": "asdf"
       },
       {
         "id": 1,
@@ -69,7 +70,8 @@
         "lastname": "asdf",
         "password": "$2a$08$9cTRFoS2rlapaA566GLnHuWv.Efh5EIL5UH9M6S1/R3Kw6jSTv4K6",
         "birthday": "",
-        "profileImage": ""
+        "profileImage": "",
+        "nickName": "qwer"
       }
     ]
   }
