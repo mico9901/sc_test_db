@@ -95,6 +95,34 @@
         "MODIFY_USR_ID": "testuser",
         "MODIFY_USR_IP": "127.0.0.1",
       }
+    ],
+    "t_usr_info" = [
+      {
+        "USR_ID": "testuser",
+        "USR_PW": "testpassword",
+        "USR_NM": "testname",
+        "EMAIL": "test@test.com",
+        "USR_NIC_NM": "testnick",
+        "TELNO": "01012345678",
+        "ADDRESS": "contry city etc",
+        "POST_CODE": "01234",
+        "EMAIL_RECV_CD": "01",
+        "SMS_RECV_CD": "01",
+        "SNS_CERTIFY": "testtype",
+        "PROFILE_IMG_URL": "/images/header/topMenu/top-icon_01.png",
+        "USR_TYPE_CD": "01",
+        "USE_CD": "01",
+        "BLOCK_CD": "01",
+        "ETC": "이것은 비고입니다.",
+        "REG_DTM": "2022-12-31",
+        "REG_USR_ID": "testuser",
+        "REG_USR_IP": "127.0.0.1",
+        "MODIFY_DTM": "2022-12-31",
+        "MODIFY_USR_ID": "testuser",
+        "MODIFY_USR_IP": "127.0.0.1",
+        "USR_JOINPATH": "가입경로입니다.",
+        "LOGIN_DTM": "2022-12-31",
+      }
     ]
   }
 }
