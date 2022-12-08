@@ -73,6 +73,28 @@
         "profileImage": "",
         "nickName": "qwer"
       }
+    ],
+    "t_menu_info": [
+      {
+        "MENU_ID": "0000 0000 0000",
+        "UPPER_MENU_ID": "0000 0000 0000",
+        "MENU_NM": "테스트메뉴",
+        "MENU_TYPE_CD": "01",
+        "MENU_ASSORT_CD": "01",
+        "MENU_DESC": "테스트 메뉴입니다.",
+        "MENU_URL": "/test.do",
+        "MENU_PATH": "/test.do",
+        "MENU_IMG_URL": "/images/header/topMenu/top-icon_01.png",
+        "LVL": 0,
+        "ORD": 0,
+        "USE_CD": "01",
+        "REG_DTM": "2022-12-31",
+        "REG_USR_ID": "testuser",
+        "REG_USR_IP": "127.0.0.1",
+        "MODIFY_DTM": "2022-12-31",
+        "MODIFY_USR_ID": "testuser",
+        "MODIFY_USR_IP": "127.0.0.1",
+      }
     ]
   }
 }
