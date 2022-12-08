@@ -96,7 +96,7 @@
         "MODIFY_USR_IP": "127.0.0.1",
       }
     ],
-    "t_usr_info" = [
+    "t_usr_info": [
       {
         "USR_ID": "testuser",
         "USR_PW": "testpassword",
