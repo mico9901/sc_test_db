@@ -54,7 +54,7 @@
   "yulbgm": {
     "profile": [
       {
-        "id": asdf,
+        "id": "asdf",
         "email": "asdf@asdf",
         "firstname": "asdf",
         "lastname": "asdf",
@@ -64,7 +64,7 @@
         "nickName": "asdf"
       },
       {
-        "id": qwer,
+        "id": "qwer",
         "email": "qwer@qwer",
         "firstname": "asdf",
         "lastname": "asdf",
