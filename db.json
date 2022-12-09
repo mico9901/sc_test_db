@@ -101,6 +101,19 @@
         "USR_JOINPATH": "가입경로입니다.",
         "LOGIN_DTM": "2022-12-31"
       }
-    ]
+    ],
+    "t_cart": [
+      {
+        "CART_SEQ": 1,
+        "USR_ID": "user",
+        "LIBRARY_ID": "lib 1",
+        "REG_DTM": "2022-12-31",
+        "REG_USR_ID": "user",
+        "REG_USR_IP": "127.0.0.1",
+        "MODIFY_DTM": "2022-12-31",
+        "MODIFY_USR_ID": "user",
+        "MODIFY_USR_IP": "127.0.0.1"
+      }
+    ],
   }
 }
