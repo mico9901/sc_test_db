@@ -52,28 +52,6 @@
     }
   },
   "yulbgm": {
-    "profile": [
-      {
-        "id": "asdf",
-        "email": "asdf@asdf",
-        "firstname": "asdf",
-        "lastname": "asdf",
-        "password": "$2a$08$9cTRFoS2rlapaA566GLnHuWv.Efh5EIL5UH9M6S1/R3Kw6jSTv4K6",
-        "birthday": "",
-        "profileImage": "",
-        "nickName": "asdf"
-      },
-      {
-        "id": "qwer",
-        "email": "qwer@qwer",
-        "firstname": "asdf",
-        "lastname": "asdf",
-        "password": "$2a$08$9cTRFoS2rlapaA566GLnHuWv.Efh5EIL5UH9M6S1/R3Kw6jSTv4K6",
-        "birthday": "",
-        "profileImage": "",
-        "nickName": "qwer"
-      }
-    ],
     "t_menu_info": [
       {
         "MENU_ID": "0000 0000 0000",
