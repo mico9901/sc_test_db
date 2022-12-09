@@ -114,6 +114,43 @@
         "MODIFY_USR_ID": "user",
         "MODIFY_USR_IP": "127.0.0.1"
       }
+    ],
+    "t_library": [
+      {
+        "LIBRARY_SEQ": 0,
+        "LIBRARY_ID": "0",
+        "LIBRARY_NM": "lib name",
+        "LIBRARY_GENRE": "00",
+        "NATION": "contry",
+        "SINGER": "singer",
+        "SONGWRITER": "songwriter",
+        "LYRICS_WRITER": "lryicwriter",
+        "ARRANGER": "arranger",
+        "LIBRARY_DESC": "desc",
+        "ALBUM_NM": "album name",
+        "ALBUM_IMG_FILE_ID": "album.jpg",
+        "REFERENCE_NM": "reference",
+        "LIBRARY_IMG_FILE_ID": "library.jpg",
+        "LIBRARY_FILE_ID": "folder/file.abc",
+        "LIBRARY_SAMPLE_FILE_ID": "folder/sample.abc",
+        "LIBRARY_PRICE": "15$",
+        "DISCOUNTRATE": "0.2",
+        "LIBRARY_TAG": "[tag, tag, tag"],
+        "LIBRARY_KEY": "a#",
+        "LIBRARY_FORM_CD": "01",
+        "LIBRARY_OPEN_CD": "01",
+        "VIEW_CNT": 100,
+        "RECMD_CNT": 10,
+        "COPYRIGHT_ID": "copywriter",
+        "CHECK_PERSON": "admin",
+        "URL": "testurl.com",
+        "REG_DTM": "2022-12-31",
+        "REG_USR_ID": "user",
+        "REG_USR_IP": "127.0.0.1",
+        "MODIFY_DTM": "2022-12-31",
+        "MODIFY_USR_ID": "user",
+        "MODIFY_USR_IP": "127.0.0.1"
+      }
     ]
   }
 }
