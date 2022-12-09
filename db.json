@@ -135,7 +135,7 @@
         "LIBRARY_SAMPLE_FILE_ID": "folder/sample.abc",
         "LIBRARY_PRICE": "15$",
         "DISCOUNTRATE": "0.2",
-        "LIBRARY_TAG": "[tag, tag, tag"],
+        "LIBRARY_TAG": "[tag, tag, tag]",
         "LIBRARY_KEY": "a#",
         "LIBRARY_FORM_CD": "01",
         "LIBRARY_OPEN_CD": "01",
