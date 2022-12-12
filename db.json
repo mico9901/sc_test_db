@@ -51,7 +51,7 @@
       "repeatView": 0
     }
   },
-  "yulbgm": {
+  "yulbgm": [{
     "t_menu_info": [
       {
         "MENU_ID": "0000 0000 0000",
@@ -184,5 +184,5 @@
         "MODIFY_USR_IP": "127.0.0.1"
       }
     ]
-  }
+  }]
 }
