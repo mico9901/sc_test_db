@@ -51,7 +51,8 @@
       "repeatView": 0
     }
   },
-  "yulbgm": [{
+  "yulbgm": [
+  {
     "t_menu_info": [
       {
         "MENU_ID": "0000 0000 0000",
@@ -74,115 +75,109 @@
         "MODIFY_USR_IP": "127.0.0.1"
       }
     ],
-    "t_usr_info": [
-      {
-        "USR_ID": "testuser",
-        "USR_PW": "testpassword",
-        "USR_NM": "testname",
-        "EMAIL": "test@test.com",
-        "USR_NIC_NM": "testnick",
-        "TELNO": "01012345678",
-        "ADDRESS": "contry city etc",
-        "POST_CODE": "01234",
-        "EMAIL_RECV_CD": "01",
-        "SMS_RECV_CD": "01",
-        "SNS_CERTIFY": "testtype",
-        "PROFILE_IMG_URL": "/images/header/topMenu/top-icon_01.png",
-        "USR_TYPE_CD": "01",
-        "USE_CD": "01",
-        "BLOCK_CD": "01",
-        "ETC": "이것은 비고입니다.",
-        "REG_DTM": "2022-12-31",
-        "REG_USR_ID": "testuser",
-        "REG_USR_IP": "127.0.0.1",
-        "MODIFY_DTM": "2022-12-31",
-        "MODIFY_USR_ID": "testuser",
-        "MODIFY_USR_IP": "127.0.0.1",
-        "USR_JOINPATH": "가입경로입니다.",
-        "LOGIN_DTM": "2022-12-31"
+    "t_usr_info": [{
+      "USR_ID": "testuser",
+      "USR_PW": "testpassword",
+      "USR_NM": "testname",
+      "EMAIL": "test@test.com",
+      "USR_NIC_NM": "testnick",
+      "TELNO": "01012345678",
+      "ADDRESS": "contry city etc",
+      "POST_CODE": "01234",
+      "EMAIL_RECV_CD": "01",
+      "SMS_RECV_CD": "01",
+      "SNS_CERTIFY": "testtype",
+      "PROFILE_IMG_URL": "/images/header/topMenu/top-icon_01.png",
+      "USR_TYPE_CD": "01",
+      "USE_CD": "01",
+      "BLOCK_CD": "01",
+      "ETC": "이것은 비고입니다.",
+      "REG_DTM": "2022-12-31",
+      "REG_USR_ID": "testuser",
+      "REG_USR_IP": "127.0.0.1",
+      "MODIFY_DTM": "2022-12-31",
+      "MODIFY_USR_ID": "testuser",
+      "MODIFY_USR_IP": "127.0.0.1",
+      "USR_JOINPATH": "가입경로입니다.",
+      "LOGIN_DTM": "2022-12-31"
+    }],
+    "t_cart": [{
+      "CART_SEQ": 1,
+      "USR_ID": "user",
+      "LIBRARY_ID": "lib 1",
+      "REG_DTM": "2022-12-31",
+      "REG_USR_ID": "user",
+      "REG_USR_IP": "127.0.0.1",
+      "MODIFY_DTM": "2022-12-31",
+      "MODIFY_USR_ID": "user",
+      "MODIFY_USR_IP": "127.0.0.1",
+      "ITEMS": [
+        {
+          "LIBRARY_NM": "호랑수월가",
+          "ALBUM_IMG_FILE_ID": "/images/mainScores/21.jpg",
+          "LIBRARY_PRICE": 15,
+          "DISCOUNTRATE": 0
+        },
+        {
+          "LIBRARY_NM": "덩기덕",
+          "ALBUM_IMG_FILE_ID": "/images/mainScores/2.png",
+          "LIBRARY_PRICE": 15,
+          "DISCOUNTRATE": 0
+        },
+        {
+          "LIBRARY_NM": "흥부가",
+          "ALBUM_IMG_FILE_ID": "/images/mainScores/23.jpg",
+          "LIBRARY_PRICE": 15,
+          "DISCOUNTRATE": 0.2
+        },
+        {
+          "LIBRARY_NM": "멸공의횃불",
+          "ALBUM_IMG_FILE_ID": "/images/mainScores/4.png",
+          "LIBRARY_PRICE": 15,
+          "DISCOUNTRATE": 0.2
+        },
+        {
+          "LIBRARY_NM": "악단광칠",
+          "ALBUM_IMG_FILE_ID": "/images/mainScores/5.png",
+          "LIBRARY_PRICE": 20,
+          "DISCOUNTRATE": 0.5
+        }]
       }
     ],
-    "t_cart": [
-      {
-        "CART_SEQ": 1,
-        "USR_ID": "user",
-        "LIBRARY_ID": "lib 1",
-        "REG_DTM": "2022-12-31",
-        "REG_USR_ID": "user",
-        "REG_USR_IP": "127.0.0.1",
-        "MODIFY_DTM": "2022-12-31",
-        "MODIFY_USR_ID": "user",
-        "MODIFY_USR_IP": "127.0.0.1",
-        "ITEMS": [
-          {
-            "LIBRARY_NM": "호랑수월가",
-            "ALBUM_IMG_FILE_ID": "/images/mainScores/21.jpg",
-            "LIBRARY_PRICE": 15,
-            "DISCOUNTRATE": 0
-          },
-          {
-            "LIBRARY_NM": "덩기덕",
-            "ALBUM_IMG_FILE_ID": "/images/mainScores/2.png",
-            "LIBRARY_PRICE": 15,
-            "DISCOUNTRATE": 0
-          },
-          {
-            "LIBRARY_NM": "흥부가",
-            "ALBUM_IMG_FILE_ID": "/images/mainScores/23.jpg",
-            "LIBRARY_PRICE": 15,
-            "DISCOUNTRATE": 0.2
-          },
-          {
-            "LIBRARY_NM": "멸공의횃불",
-            "ALBUM_IMG_FILE_ID": "/images/mainScores/4.png",
-            "LIBRARY_PRICE": 15,
-            "DISCOUNTRATE": 0.2
-          },
-          {
-            "LIBRARY_NM": "악단광칠",
-            "ALBUM_IMG_FILE_ID": "/images/mainScores/5.png",
-            "LIBRARY_PRICE": 20,
-            "DISCOUNTRATE": 0.5
-          }
-        ]
-      }
-    ],
-    "t_library": [
-      {
-        "LIBRARY_SEQ": 0,
-        "LIBRARY_ID": "0",
-        "LIBRARY_NM": "lib name",
-        "LIBRARY_GENRE": "00",
-        "NATION": "contry",
-        "SINGER": "singer",
-        "SONGWRITER": "songwriter",
-        "LYRICS_WRITER": "lryicwriter",
-        "ARRANGER": "arranger",
-        "LIBRARY_DESC": "desc",
-        "ALBUM_NM": "album name",
-        "ALBUM_IMG_FILE_ID": "album.jpg",
-        "REFERENCE_NM": "reference",
-        "LIBRARY_IMG_FILE_ID": "library.jpg",
-        "LIBRARY_FILE_ID": "folder/file.abc",
-        "LIBRARY_SAMPLE_FILE_ID": "folder/sample.abc",
-        "LIBRARY_PRICE": "15$",
-        "DISCOUNTRATE": "0.2",
-        "LIBRARY_TAG": "[tag, tag, tag]",
-        "LIBRARY_KEY": "a#",
-        "LIBRARY_FORM_CD": "01",
-        "LIBRARY_OPEN_CD": "01",
-        "VIEW_CNT": 100,
-        "RECMD_CNT": 10,
-        "COPYRIGHT_ID": "copywriter",
-        "CHECK_PERSON": "admin",
-        "URL": "testurl.com",
-        "REG_DTM": "2022-12-31",
-        "REG_USR_ID": "user",
-        "REG_USR_IP": "127.0.0.1",
-        "MODIFY_DTM": "2022-12-31",
-        "MODIFY_USR_ID": "user",
-        "MODIFY_USR_IP": "127.0.0.1"
-      }
-    ]
+    "t_library": [{
+      "LIBRARY_SEQ": 0,
+      "LIBRARY_ID": "0",
+      "LIBRARY_NM": "lib name",
+      "LIBRARY_GENRE": "00",
+      "NATION": "contry",
+      "SINGER": "singer",
+      "SONGWRITER": "songwriter",
+      "LYRICS_WRITER": "lryicwriter",
+      "ARRANGER": "arranger",
+      "LIBRARY_DESC": "desc",
+      "ALBUM_NM": "album name",
+      "ALBUM_IMG_FILE_ID": "album.jpg",
+      "REFERENCE_NM": "reference",
+      "LIBRARY_IMG_FILE_ID": "library.jpg",
+      "LIBRARY_FILE_ID": "folder/file.abc",
+      "LIBRARY_SAMPLE_FILE_ID": "folder/sample.abc",
+      "LIBRARY_PRICE": "15$",
+      "DISCOUNTRATE": "0.2",
+      "LIBRARY_TAG": "[tag, tag, tag]",
+      "LIBRARY_KEY": "a#",
+      "LIBRARY_FORM_CD": "01",
+      "LIBRARY_OPEN_CD": "01",
+      "VIEW_CNT": 100,
+      "RECMD_CNT": 10,
+      "COPYRIGHT_ID": "copywriter",
+      "CHECK_PERSON": "admin",
+      "URL": "testurl.com",
+      "REG_DTM": "2022-12-31",
+      "REG_USR_ID": "user",
+      "REG_USR_IP": "127.0.0.1",
+      "MODIFY_DTM": "2022-12-31",
+      "MODIFY_USR_ID": "user",
+      "MODIFY_USR_IP": "127.0.0.1"
+    }]
   }]
 }
