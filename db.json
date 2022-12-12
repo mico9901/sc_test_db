@@ -87,8 +87,7 @@
     "LIBRARY_PRICE": 20,
     "DISCOUNTRATE": 0.5
   }],
-  "yulbgm": [
-  {
+  "yulbgm": {
     "id": 1,
     "t_menu_info": [{
       "id": 1,
@@ -222,5 +221,5 @@
       "MODIFY_USR_ID": "user",
       "MODIFY_USR_IP": "127.0.0.1"
     }]
-  }]
+  }
 }
