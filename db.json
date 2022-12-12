@@ -112,7 +112,39 @@
         "REG_USR_IP": "127.0.0.1",
         "MODIFY_DTM": "2022-12-31",
         "MODIFY_USR_ID": "user",
-        "MODIFY_USR_IP": "127.0.0.1"
+        "MODIFY_USR_IP": "127.0.0.1",
+        "ITEMS": [
+          {
+            "LIBRARY_NM": "호랑수월가",
+            "ALBUM_IMG_FILE_ID": "/images/mainScores/21.jpg",
+            "LIBRARY_PRICE": 15,
+            "DISCOUNTRATE": 0,
+          },
+          {
+            "LIBRARY_NM": "덩기덕",
+            "ALBUM_IMG_FILE_ID": "/images/mainScores/2.jpg",
+            "LIBRARY_PRICE": 15,
+            "DISCOUNTRATE": 0,
+          },
+          {
+            "LIBRARY_NM": "흥부가",
+            "ALBUM_IMG_FILE_ID": "/images/mainScores/23.jpg",
+            "LIBRARY_PRICE": 15,
+            "DISCOUNTRATE": 0.2,
+          },
+          {
+            "LIBRARY_NM": "멸공의횃불",
+            "ALBUM_IMG_FILE_ID": "/images/mainScores/4.jpg",
+            "LIBRARY_PRICE": 15,
+            "DISCOUNTRATE": 0.2,
+          },
+          {
+            "LIBRARY_NM": "악단광칠",
+            "ALBUM_IMG_FILE_ID": "/images/mainScores/5.jpg",
+            "LIBRARY_PRICE": 20,
+            "DISCOUNTRATE": 0.5,
+          }
+        ]
       }
     ],
     "t_library": [
