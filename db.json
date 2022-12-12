@@ -118,31 +118,31 @@
             "LIBRARY_NM": "호랑수월가",
             "ALBUM_IMG_FILE_ID": "/images/mainScores/21.jpg",
             "LIBRARY_PRICE": 15,
-            "DISCOUNTRATE": 0,
+            "DISCOUNTRATE": 0
           },
           {
             "LIBRARY_NM": "덩기덕",
             "ALBUM_IMG_FILE_ID": "/images/mainScores/2.jpg",
             "LIBRARY_PRICE": 15,
-            "DISCOUNTRATE": 0,
+            "DISCOUNTRATE": 0
           },
           {
             "LIBRARY_NM": "흥부가",
             "ALBUM_IMG_FILE_ID": "/images/mainScores/23.jpg",
             "LIBRARY_PRICE": 15,
-            "DISCOUNTRATE": 0.2,
+            "DISCOUNTRATE": 0.2
           },
           {
             "LIBRARY_NM": "멸공의횃불",
             "ALBUM_IMG_FILE_ID": "/images/mainScores/4.jpg",
             "LIBRARY_PRICE": 15,
-            "DISCOUNTRATE": 0.2,
+            "DISCOUNTRATE": 0.2
           },
           {
             "LIBRARY_NM": "악단광칠",
             "ALBUM_IMG_FILE_ID": "/images/mainScores/5.jpg",
             "LIBRARY_PRICE": 20,
-            "DISCOUNTRATE": 0.5,
+            "DISCOUNTRATE": 0.5
           }
         ]
       }
