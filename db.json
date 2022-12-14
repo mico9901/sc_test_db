@@ -89,7 +89,8 @@
   }],
   "yulbgm": {
     "id": 1,
-    "t_menu_info": [{
+    "t_menu_info": [
+    {
       "id": 1,
       "MENU_ID": "0000 0000 0000",
       "UPPER_MENU_ID": "0000 0000 0000",
@@ -110,7 +111,8 @@
       "MODIFY_USR_ID": "testuser",
       "MODIFY_USR_IP": "127.0.0.1"
     }],
-    "t_usr_info": [{
+    "t_usr_info": [
+    {
       "id": 2,
       "USR_ID": "testuser",
       "USR_PW": "testpassword",
@@ -137,7 +139,8 @@
       "USR_JOINPATH": "가입경로입니다.",
       "LOGIN_DTM": "2022-12-31"
     }],
-    "t_cart": [{
+    "t_cart": [
+    {
       "id": 3,
       "CART_SEQ": 1,
       "USR_ID": "user",
@@ -186,7 +189,8 @@
         }]
       }
     ],
-    "t_library": [{
+    "t_library": [
+    {
       "LIBRARY_SEQ": 0,
       "LIBRARY_ID": "0",
       "LIBRARY_NM": "lib name",
